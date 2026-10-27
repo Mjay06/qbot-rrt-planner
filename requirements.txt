@@ -1,0 +1,3 @@
+numpy
+matplotlib
+# Quanser libraries (pal, qvl, qlabs_setup) come from the Quanser install, not PyPI
